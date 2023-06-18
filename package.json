@@ -1,0 +1,16 @@
+{
+  "name": "handle_vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mini_vite.js",
+  "scripts": {
+    "dev": "nodemon mini_vite.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "vue": "^3.2.31"
+  }
+}
